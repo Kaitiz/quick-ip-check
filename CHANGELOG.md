@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.1.4 — 2026-10-25
+
+- UI improvements.
+
 ## 2.1.3 — 2026-10-24
 
 - Bug fixes.
